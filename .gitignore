@@ -3,3 +3,33 @@
 ################################################################################
 
 /.vs/MVC-Movie/FileContentIndex/3b0198dc-ac8c-40cc-a671-d9ba88c66083.vsidx
+/MVC Movie/MVC Movie/bin/Debug/net6.0
+*.config
+*.v2
+/MVC Movie/.vs/MVC Movie/v17/.suo
+*.txt
+/MVC Movie/.vs/ProjectEvaluation/mvc movie.metadata.v5.1
+/MVC Movie/.vs/ProjectEvaluation/mvc movie.projects.v5.1
+/MVC Movie/MVC Movie/obj/Debug/net6.0/ref/MVC Movie.dll
+/MVC Movie/MVC Movie/obj/Debug/net6.0/refint/MVC Movie.dll
+/MVC Movie/MVC Movie/obj/Debug/net6.0/scopedcss/bundle/MVC Movie.styles.css
+/MVC Movie/MVC Movie/obj/Debug/net6.0/scopedcss/projectbundle/MVC Movie.bundle.scp.css
+/MVC Movie/MVC Movie/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/MVC Movie/MVC Movie/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+*.exe
+/MVC Movie/MVC Movie/obj/Debug/net6.0/MVC Movie.assets.cache
+/MVC Movie/MVC Movie/obj/Debug/net6.0/MVC Movie.csproj.AssemblyReference.cache
+*.CopyComplete
+*.cache
+*.dll
+/MVC Movie/MVC Movie/obj/Debug/net6.0/MVC Movie.GeneratedMSBuildEditorConfig.editorconfig
+*.pdb
+/MVC Movie/MVC Movie/obj/Debug/net6.0/project.razor.vs.json
+/MVC Movie/MVC Movie/obj/Debug/net6.0/staticwebassets.build.json
+/MVC Movie/MVC Movie/obj/Debug/net6.0/staticwebassets.development.json
+/MVC Movie/MVC Movie/obj/Release/net6.0
+/MVC Movie/MVC Movie/obj/MVC Movie.csproj.nuget.dgspec.json
+/MVC Movie/MVC Movie/obj/MVC Movie.csproj.nuget.g.props
+/MVC Movie/MVC Movie/obj/project.assets.json
+/MVC Movie/MVC Movie/obj/project.nuget.cache
+/MVC Movie/MVC Movie/obj/staticwebassets.pack.sentinel
